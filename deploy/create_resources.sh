@@ -18,11 +18,11 @@ cd lambda
 zip function.zip handler.py
 cd ..
 
-aws lambda create-function --function-name $FUNCTION_NAME \
-  --zip-file fileb://lambda/function.zip \
-  --handler handler.lambda_handler \
-  --runtime python3.11 \
+aws lambda create-function --function-name $FUNCTION_NAME 
+  --zip-file fileb://lambda/function.zip 
+  --handler handler.lambda_handler 
+  --runtime python3.11 
   --role arn:aws:iam::$(aws sts get-caller-identity --query Account --output text):role/$ROLE_NAME
 
-# 5. Set up S3 trigger manually via console or via CLI (more complex)
+# 5. Set up S3 trigger manually via console or via CLI
 
