@@ -165,5 +165,6 @@ This project is safe to run under the AWS Free Tier:
 * GitHub: [@KaustavDey357](https://github.com/KaustavDey357)
 * LinkedIn: [linkedin.com/in/KaustavDey357](https://www.linkedin.com/in/kaustav-dey-107593244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 * Portfolio: [KaustavDey357.github.io](https://KaustavDey357.github.io)
+* Dev.to : [https://dev.to/kaustav_dey_/](https://dev.to/kaustav_dey_/)
 
 ---
